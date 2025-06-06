@@ -9,7 +9,7 @@ Este projeto foi desenvolvido durante o curso **"HTML e CSS: praticando HTML/CSS
 
 ## 📸 Preview do Projeto
 
-![Preview do site Alura Plus](https://github.com/erika-bn/curso-html-alura/blob/master/assets/img/preview.png?raw=true)
+![Preview do site Alura Plus]([https://github.com/erika-bn/curso-html-alura/blob/master/assets/img/preview.png?raw=true)](https://github.com/erika-bn/curso-html-alura/blob/master/assets/site.png)
 
 ---
 
